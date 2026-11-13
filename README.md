@@ -8,6 +8,6 @@ Marlin 是 Windows 上的 Markdown 阅读与编辑器：双击 `.md` 直接看�
 - `Marlin_x.y.z_x64-portable.zip`：便携版，解压即用，设置放在程序旁边的 `data` 文件夹里
 - `latest.json`：程序检查更新用的清单（2.0.2 起）
 
-介绍和使用说明见官网：https://marlin-md.github.io/marlin-website/
+介绍和使用说明见官网：https://marlin.mawork.cn/
 
 遇到问题或有建议，请在本仓库的 [Issues](https://github.com/marlin-md/marlin-releases/issues) 里提。
